@@ -1,6 +1,6 @@
-# 🌸 Hi, I'm Agostina 👋
+# 🌸 Hi, I'm Agostina 
 
-💻 Software Development Student | 🚀 Backend Enthusiast  
+💻 Software Development Student | Backend Enthusiast  
 ✨ "Code is also art, and I want to paint it pink."  
 
 ---
