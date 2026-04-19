@@ -1,7 +1,6 @@
 # 🌸 Hi, I'm Agostina 
 
 💻 Software Development Student | Backend Enthusiast  
-✨ "Code is also art, and I want to paint it pink."  
 
 ---
 
@@ -21,17 +20,14 @@
 ## 🌱 Currently Learning
 - Advanced JavaScript  
 - Node.js  
-- MongoDB  
+- MongoDB
+- Python
 
 ---
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinag1144&layout=compact&theme=rose_pine)
 
----
-
-## 🎶 What I'm Listening To
-[![Spotify](https://novatorem.vercel.app/api/spotify?username=Tina1144)](https://open.spotify.com/user/Tina1144)
 
 ---
 
